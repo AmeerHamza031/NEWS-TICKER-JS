@@ -1,0 +1,35 @@
+.container h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#marquee-cont {
+    background: #f4f4f4;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+#marquee-cont marquee {
+    margin-top: 5px;
+}
+
+#marquee-news {
+    background: #1174A8;
+}
+
+#ticker-title {
+    border: none;
+    font-size: 1.5rem;
+    padding: 20px 50px;
+    background: #df211b;
+    color: white;
+}
+
+#ticker-title:focus {
+    outline: none;
+}
+
+#scroll {
+    font-size: 2rem;
+}
